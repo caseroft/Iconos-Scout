@@ -1,0 +1,6 @@
+al guardar un svg
+
+hacer lo siguiente
+
+
+Degroup every shapes (Ctrl+Shift+G), convert to pathes (Ctrl+Maj+C) and merge them (Ctrl++). Then save your SVG, prefer 'simple SVG' file type.

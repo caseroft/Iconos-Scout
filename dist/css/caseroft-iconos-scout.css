@@ -1,0 +1,258 @@
+/**
+caseroft-iconos-scout Webfont
+*/
+@font-face {
+ font-family: 'caseroft-iconos-scout';
+ src: url('../fonts/caseroft-iconos-scout.eot?1491574210031');
+ src: url('../fonts/caseroft-iconos-scout.eot?#iefix-1491574210031') format('embedded-opentype'),
+  url('../fonts/caseroft-iconos-scout.woff2?1491574210031') format('woff2'),
+  url('../fonts/caseroft-iconos-scout.woff?1491574210031') format('woff'),
+  url('../fonts/caseroft-iconos-scout.ttf?1491574210031') format('truetype');
+ font-weight: normal;
+ font-style: normal;
+}
+
+[class^='cis-']:before,
+[class*=' cis-']:before {
+ font-family: 'caseroft-iconos-scout';
+ display: inline-block;
+ vertical-align: middle;
+ line-height: 1;
+ font-weight: normal;
+ font-style: normal;
+ speak: none;
+ text-decoration: inherit;
+ font-size: inherit;
+ text-transform: none;
+ text-rendering: optimizeLegibility;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+Glyphs list
+*/
+
+.cis-area-ams:before {
+ content: '\ea01';
+}
+
+.cis-area-ayf:before {
+ content: '\ea02';
+}
+
+.cis-area-budista:before {
+ content: '\ea03';
+}
+
+.cis-area-catolico:before {
+ content: '\ea04';
+}
+
+.cis-area-comunicaciones:before {
+ content: '\ea05';
+}
+
+.cis-area-desarrollo:before {
+ content: '\ea06';
+}
+
+.cis-area-eys:before {
+ content: '\ea07';
+}
+
+.cis-area-infraestructura:before {
+ content: '\ea08';
+}
+
+.cis-area-juventud:before {
+ content: '\ea09';
+}
+
+.cis-area-musulmanes:before {
+ content: '\ea0a';
+}
+
+.cis-area-programa:before {
+ content: '\ea0b';
+}
+
+.cis-canoa:before {
+ content: '\ea0c';
+}
+
+.cis-cayado:before {
+ content: '\ea0d';
+}
+
+.cis-im:before {
+ content: '\ea0e';
+}
+
+.cis-lobo:before {
+ content: '\ea0f';
+}
+
+.cis-ltv-bagheera:before {
+ content: '\ea10';
+}
+
+.cis-ltv-baloo:before {
+ content: '\ea11';
+}
+
+.cis-ltv-kaa:before {
+ content: '\ea12';
+}
+
+.cis-ltv-mowgli:before {
+ content: '\ea13';
+}
+
+.cis-ltv-raksha:before {
+ content: '\ea14';
+}
+
+.cis-nudo-llano:before {
+ content: '\ea15';
+}
+
+.cis-obj-banderin:before {
+ content: '\ea16';
+}
+
+.cis-obj-botiquin:before {
+ content: '\ea17';
+}
+
+.cis-obj-brujula:before {
+ content: '\ea18';
+}
+
+.cis-obj-cantimplora:before {
+ content: '\ea19';
+}
+
+.cis-obj-carpa:before {
+ content: '\ea1a';
+}
+
+.cis-obj-chuchillo:before {
+ content: '\ea1b';
+}
+
+.cis-obj-fuego:before {
+ content: '\ea1c';
+}
+
+.cis-obj-mochila:before {
+ content: '\ea1d';
+}
+
+.cis-obj-montania:before {
+ content: '\ea1e';
+}
+
+.cis-obj-panuelo:before {
+ content: '\ea1f';
+}
+
+.cis-obj-pinos:before {
+ content: '\ea20';
+}
+
+.cis-obj-prismatico:before {
+ content: '\ea21';
+}
+
+.cis-obj-silbato:before {
+ content: '\ea22';
+}
+
+.cis-obj-trompeta:before {
+ content: '\ea23';
+}
+
+.cis-saac-dd:before {
+ content: '\ea24';
+}
+
+.cis-saac-dirigente:before {
+ content: '\ea25';
+}
+
+.cis-saac-dz:before {
+ content: '\ea26';
+}
+
+.cis-saac-insignia-caminantes:before {
+ content: '\ea27';
+}
+
+.cis-saac-insignia-lyl:before {
+ content: '\ea28';
+}
+
+.cis-saac-insignia-rover:before {
+ content: '\ea29';
+}
+
+.cis-saac-insignia-scout:before {
+ content: '\ea2a';
+}
+
+.cis-saac-isologo:before {
+ content: '\ea2b';
+}
+
+.cis-saac-jg:before {
+ content: '\ea2c';
+}
+
+.cis-saac-lis-nacional:before {
+ content: '\ea2d';
+}
+
+.cis-saac-lis:before {
+ content: '\ea2e';
+}
+
+.cis-saac-oms:before {
+ content: '\ea2f';
+}
+
+.cis-saac-zona9:before {
+ content: '\ea30';
+}
+
+.cis-scout-avatar:before {
+ content: '\ea31';
+}
+
+.cis-scout-bp:before {
+ content: '\ea32';
+}
+
+.cis-scout-buscar:before {
+ content: '\ea33';
+}
+
+.cis-scout-caminando:before {
+ content: '\ea34';
+}
+
+.cis-scout-evento:before {
+ content: '\ea35';
+}
+
+.cis-scout-perfil:before {
+ content: '\ea36';
+}
+
+.cis-scout-saludo-mano:before {
+ content: '\ea37';
+}
+
+.cis-scout-saludo:before {
+ content: '\ea38';
+}
