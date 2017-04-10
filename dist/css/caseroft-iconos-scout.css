@@ -3,11 +3,11 @@ caseroft-iconos-scout Webfont
 */
 @font-face {
  font-family: 'caseroft-iconos-scout';
- src: url('../fonts/caseroft-iconos-scout.eot?1491574210031');
- src: url('../fonts/caseroft-iconos-scout.eot?#iefix-1491574210031') format('embedded-opentype'),
-  url('../fonts/caseroft-iconos-scout.woff2?1491574210031') format('woff2'),
-  url('../fonts/caseroft-iconos-scout.woff?1491574210031') format('woff'),
-  url('../fonts/caseroft-iconos-scout.ttf?1491574210031') format('truetype');
+ src: url('../fonts/caseroft-iconos-scout.eot?1491826297586');
+ src: url('../fonts/caseroft-iconos-scout.eot?#iefix-1491826297586') format('embedded-opentype'),
+  url('../fonts/caseroft-iconos-scout.woff2?1491826297586') format('woff2'),
+  url('../fonts/caseroft-iconos-scout.woff?1491826297586') format('woff'),
+  url('../fonts/caseroft-iconos-scout.ttf?1491826297586') format('truetype');
  font-weight: normal;
  font-style: normal;
 }
@@ -85,174 +85,186 @@ Glyphs list
  content: '\ea0d';
 }
 
-.cis-im:before {
+.cis-im-add:before {
  content: '\ea0e';
 }
 
-.cis-lobo:before {
+.cis-im-list:before {
  content: '\ea0f';
 }
 
-.cis-ltv-bagheera:before {
+.cis-im-update:before {
  content: '\ea10';
 }
 
-.cis-ltv-baloo:before {
+.cis-im:before {
  content: '\ea11';
 }
 
-.cis-ltv-kaa:before {
+.cis-lobo:before {
  content: '\ea12';
 }
 
-.cis-ltv-mowgli:before {
+.cis-ltv-bagheera:before {
  content: '\ea13';
 }
 
-.cis-ltv-raksha:before {
+.cis-ltv-baloo:before {
  content: '\ea14';
 }
 
-.cis-nudo-llano:before {
+.cis-ltv-kaa:before {
  content: '\ea15';
 }
 
-.cis-obj-banderin:before {
+.cis-ltv-mowgli:before {
  content: '\ea16';
 }
 
-.cis-obj-botiquin:before {
+.cis-ltv-raksha:before {
  content: '\ea17';
 }
 
-.cis-obj-brujula:before {
+.cis-nudo-llano:before {
  content: '\ea18';
 }
 
-.cis-obj-cantimplora:before {
+.cis-obj-banderin:before {
  content: '\ea19';
 }
 
-.cis-obj-carpa:before {
+.cis-obj-botiquin:before {
  content: '\ea1a';
 }
 
-.cis-obj-chuchillo:before {
+.cis-obj-brujula:before {
  content: '\ea1b';
 }
 
-.cis-obj-fuego:before {
+.cis-obj-cantimplora:before {
  content: '\ea1c';
 }
 
-.cis-obj-mochila:before {
+.cis-obj-carpa:before {
  content: '\ea1d';
 }
 
-.cis-obj-montania:before {
+.cis-obj-chuchillo:before {
  content: '\ea1e';
 }
 
-.cis-obj-panuelo:before {
+.cis-obj-fuego:before {
  content: '\ea1f';
 }
 
-.cis-obj-pinos:before {
+.cis-obj-mochila:before {
  content: '\ea20';
 }
 
-.cis-obj-prismatico:before {
+.cis-obj-montania:before {
  content: '\ea21';
 }
 
-.cis-obj-silbato:before {
+.cis-obj-panuelo:before {
  content: '\ea22';
 }
 
-.cis-obj-trompeta:before {
+.cis-obj-pinos:before {
  content: '\ea23';
 }
 
-.cis-saac-dd:before {
+.cis-obj-prismatico:before {
  content: '\ea24';
 }
 
-.cis-saac-dirigente:before {
+.cis-obj-silbato:before {
  content: '\ea25';
 }
 
-.cis-saac-dz:before {
+.cis-obj-trompeta:before {
  content: '\ea26';
 }
 
-.cis-saac-insignia-caminantes:before {
+.cis-saac-dd:before {
  content: '\ea27';
 }
 
-.cis-saac-insignia-lyl:before {
+.cis-saac-dirigente:before {
  content: '\ea28';
 }
 
-.cis-saac-insignia-rover:before {
+.cis-saac-dz:before {
  content: '\ea29';
 }
 
-.cis-saac-insignia-scout:before {
+.cis-saac-insignia-caminantes:before {
  content: '\ea2a';
 }
 
-.cis-saac-isologo:before {
+.cis-saac-insignia-lyl:before {
  content: '\ea2b';
 }
 
-.cis-saac-jg:before {
+.cis-saac-insignia-rover:before {
  content: '\ea2c';
 }
 
-.cis-saac-lis-nacional:before {
+.cis-saac-insignia-scout:before {
  content: '\ea2d';
 }
 
-.cis-saac-lis:before {
+.cis-saac-isologo:before {
  content: '\ea2e';
 }
 
-.cis-saac-oms:before {
+.cis-saac-jg:before {
  content: '\ea2f';
 }
 
-.cis-saac-zona9:before {
+.cis-saac-lis-nacional:before {
  content: '\ea30';
 }
 
-.cis-scout-avatar:before {
+.cis-saac-lis:before {
  content: '\ea31';
 }
 
-.cis-scout-bp:before {
+.cis-saac-oms:before {
  content: '\ea32';
 }
 
-.cis-scout-buscar:before {
+.cis-saac-zona9:before {
  content: '\ea33';
 }
 
-.cis-scout-caminando:before {
+.cis-scout-avatar:before {
  content: '\ea34';
 }
 
-.cis-scout-evento:before {
+.cis-scout-bp:before {
  content: '\ea35';
 }
 
-.cis-scout-perfil:before {
+.cis-scout-buscar:before {
  content: '\ea36';
 }
 
-.cis-scout-saludo-mano:before {
+.cis-scout-caminando:before {
  content: '\ea37';
 }
 
-.cis-scout-saludo:before {
+.cis-scout-evento:before {
  content: '\ea38';
+}
+
+.cis-scout-perfil:before {
+ content: '\ea39';
+}
+
+.cis-scout-saludo-mano:before {
+ content: '\ea3a';
+}
+
+.cis-scout-saludo:before {
+ content: '\ea3b';
 }
