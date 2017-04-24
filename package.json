@@ -1,8 +1,8 @@
 {
   "name": "Iconos Scout",
   "version": "1.0.0",
-  "Autor": "Andres Lacquaniti"
-  "Company" : "Caseroft"
+  "Autor": "Andres Lacquaniti",
+  "Company" : "Caseroft",
   "description": "Set de Iconos Scout",
   "scripts": {
     "compilar": "gulp"
