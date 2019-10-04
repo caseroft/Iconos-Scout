@@ -2,16 +2,16 @@
   "name": "IconosScout",
   "version": "1.0.0",
   "Autor": "Andres Lacquaniti",
-  "Company" : "Caseroft",
-  "description": "Set de Iconos Scout",
+  "Company": "Open Scouts",
+  "description": "Set de Iconos Scouts",
   "scripts": {
     "compilar": "gulp"
   },
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-consolidate": "^0.1.2",
-    "gulp-iconfont": "^5.0.1",
-    "underscore": "^1.8.3"
+    "gulp": "^4.0.2",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^10.0.3",
+    "underscore": "^1.9.1"
   }
 }
