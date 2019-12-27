@@ -3,11 +3,11 @@ open-scouts Webfont
 */
 @font-face {
  font-family: 'open-scouts';
- src: url('../fonts/open-scouts.eot?1570213970248');
- src: url('../fonts/open-scouts.eot?#iefix-1570213970248') format('embedded-opentype'),
-  url('../fonts/open-scouts.woff2?1570213970248') format('woff2'),
-  url('../fonts/open-scouts.woff?1570213970248') format('woff'),
-  url('../fonts/open-scouts.ttf?1570213970248') format('truetype');
+ src: url('../fonts/open-scouts.eot?1577465874270');
+ src: url('../fonts/open-scouts.eot?#iefix-1577465874270') format('embedded-opentype'),
+  url('../fonts/open-scouts.woff2?1577465874270') format('woff2'),
+  url('../fonts/open-scouts.woff?1577465874270') format('woff'),
+  url('../fonts/open-scouts.ttf?1577465874270') format('truetype');
  font-weight: normal;
  font-style: normal;
 }
@@ -32,183 +32,183 @@ open-scouts Webfont
  *   Listado de Iconos
  */
 
-.os-area-ams:before {
+.os-camping-banderin:before {
  content: '\ea01';
 }
 
-.os-area-ayf:before {
+.os-camping-botiquin:before {
  content: '\ea02';
 }
 
-.os-area-budista:before {
+.os-camping-brujula:before {
  content: '\ea03';
 }
 
-.os-area-catolico:before {
+.os-camping-cantimplora:before {
  content: '\ea04';
 }
 
-.os-area-comunicaciones:before {
+.os-camping-carpa:before {
  content: '\ea05';
 }
 
-.os-area-desarrollo:before {
+.os-camping-chuchillo:before {
  content: '\ea06';
 }
 
-.os-area-eys:before {
+.os-camping-fuego:before {
  content: '\ea07';
 }
 
-.os-area-infraestructura:before {
+.os-camping-mochila:before {
  content: '\ea08';
 }
 
-.os-area-juventud:before {
+.os-camping-montania:before {
  content: '\ea09';
 }
 
-.os-area-musulmanes:before {
+.os-camping-pinos:before {
  content: '\ea0a';
 }
 
-.os-area-programa:before {
+.os-camping-prismatico:before {
  content: '\ea0b';
 }
 
-.os-accion-im-add:before {
+.os-camping-silbato:before {
  content: '\ea0c';
 }
 
-.os-accion-im-list:before {
+.os-camping-trompeta:before {
  content: '\ea0d';
 }
 
-.os-accion-im-update:before {
+.os-accion-evento-add:before {
  content: '\ea0e';
 }
 
-.os-accion-im:before {
+.os-accion-evento-del:before {
  content: '\ea0f';
 }
 
-.os-accion-scout-avatar:before {
+.os-accion-evento-list:before {
  content: '\ea10';
 }
 
-.os-accion-scout-buscar:before {
+.os-accion-evento:before {
  content: '\ea11';
 }
 
-.os-accion-scout-perfil:before {
+.os-accion-im-add:before {
  content: '\ea12';
 }
 
-.os-camping-banderin:before {
+.os-accion-im-list:before {
  content: '\ea13';
 }
 
-.os-camping-botiquin:before {
+.os-accion-im-update:before {
  content: '\ea14';
 }
 
-.os-camping-brujula:before {
+.os-accion-im:before {
  content: '\ea15';
 }
 
-.os-camping-cantimplora:before {
+.os-accion-lugar-add:before {
  content: '\ea16';
 }
 
-.os-camping-carpa:before {
+.os-accion-lugar-del:before {
  content: '\ea17';
 }
 
-.os-camping-chuchillo:before {
+.os-accion-lugar-list:before {
  content: '\ea18';
 }
 
-.os-camping-fuego:before {
+.os-accion-lugar:before {
  content: '\ea19';
 }
 
-.os-camping-mochila:before {
+.os-accion-scout-avatar:before {
  content: '\ea1a';
 }
 
-.os-camping-montania:before {
+.os-accion-scout-buscar:before {
  content: '\ea1b';
 }
 
-.os-camping-pinos:before {
+.os-accion-scout-perfil:before {
  content: '\ea1c';
 }
 
-.os-camping-prismatico:before {
+.os-lobo:before {
  content: '\ea1d';
 }
 
-.os-camping-silbato:before {
+.os-ltv-bagheera:before {
  content: '\ea1e';
 }
 
-.os-camping-trompeta:before {
+.os-ltv-baloo:before {
  content: '\ea1f';
 }
 
-.os-lobo:before {
+.os-ltv-kaa:before {
  content: '\ea20';
 }
 
-.os-ltv-bagheera:before {
+.os-ltv-mowgli:before {
  content: '\ea21';
 }
 
-.os-ltv-baloo:before {
+.os-ltv-raksha:before {
  content: '\ea22';
 }
 
-.os-ltv-kaa:before {
+.os-area-ams:before {
  content: '\ea23';
 }
 
-.os-ltv-mowgli:before {
+.os-area-ayf:before {
  content: '\ea24';
 }
 
-.os-ltv-raksha:before {
+.os-area-budista:before {
  content: '\ea25';
 }
 
-.os-camping-llano:before {
+.os-area-catolico:before {
  content: '\ea26';
 }
 
-.os-canoa:before {
+.os-area-comunicaciones:before {
  content: '\ea27';
 }
 
-.os-cayado:before {
+.os-area-desarrollo:before {
  content: '\ea28';
 }
 
-.os-objetos-panuelo:before {
+.os-area-eys:before {
  content: '\ea29';
 }
 
-.os-scout-bp:before {
+.os-area-infraestructura:before {
  content: '\ea2a';
 }
 
-.os-scout-caminando:before {
+.os-area-juventud:before {
  content: '\ea2b';
 }
 
-.os-scout-saludo-mano:before {
+.os-area-musulmanes:before {
  content: '\ea2c';
 }
 
-.os-scout-saludo:before {
+.os-area-programa:before {
  content: '\ea2d';
 }
 
@@ -262,4 +262,36 @@ open-scouts Webfont
 
 .os-funcion-jg:before {
  content: '\ea3a';
+}
+
+.os-camping-llano:before {
+ content: '\ea3b';
+}
+
+.os-canoa:before {
+ content: '\ea3c';
+}
+
+.os-cayado:before {
+ content: '\ea3d';
+}
+
+.os-objetos-panuelo:before {
+ content: '\ea3e';
+}
+
+.os-scout-bp:before {
+ content: '\ea3f';
+}
+
+.os-scout-caminando:before {
+ content: '\ea40';
+}
+
+.os-scout-saludo-mano:before {
+ content: '\ea41';
+}
+
+.os-scout-saludo:before {
+ content: '\ea42';
 }
