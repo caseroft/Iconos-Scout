@@ -3,11 +3,12 @@
 */
 @font-face {
  font-family: '<%= fontName %>';
- src: url('../fonts/<%= fontName %>.eot?<%= fontDate %>');
- src: url('../fonts/<%= fontName %>.eot?#iefix-<%= fontDate %>') format('embedded-opentype'),
-  url('../fonts/<%= fontName %>.woff2?<%= fontDate %>') format('woff2'),
-  url('../fonts/<%= fontName %>.woff?<%= fontDate %>') format('woff'),
-  url('../fonts/<%= fontName %>.ttf?<%= fontDate %>') format('truetype');
+ src: url('../webfonts/<%= fontName %>.eot#<%= fontDate %>');
+ src: url('../webfonts/<%= fontName %>.eot##iefix-<%= fontDate %>') format('embedded-opentype'),
+  url('../webfonts/<%= fontName %>.woff2#<%= fontDate %>') format('woff2'),
+  url('../webfonts/<%= fontName %>.woff#<%= fontDate %>') format('woff'),
+  url('../webfonts/<%= fontName %>.ttf#<%= fontDate %>') format('truetype'),
+  url('../webfonts/<%= fontName %>.svg#<%= fontDate %>') format('svg');
  font-weight: normal;
  font-style: normal;
 }

@@ -1,9 +1,9 @@
 {
-  "name": "IconosScout",
+  "name": "webfonts-scouts",
   "version": "1.0.0",
   "Autor": "Andres Lacquaniti",
   "Company": "Open Scouts",
-  "description": "Set de Iconos Scouts",
+  "description": "Set de Webfonts Scouts",
   "scripts": {
     "compilar": "gulp"
   },

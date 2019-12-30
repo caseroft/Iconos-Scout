@@ -8,7 +8,7 @@ gulp.task('default', function() {
     .pipe(
       iconfont({
         fontName: 'open-scouts',
-        formats: ['ttf', 'eot', 'woff', 'woff2'],
+        formats: ['ttf', 'eot', 'woff', 'woff2', 'svg'],
         appendCodepoints: true,
         appendUnicode: false,
         normalize: true,
@@ -38,5 +38,5 @@ gulp.task('default', function() {
         )
         .pipe(gulp.dest('dist')); // el index lo muevo a doc, que es donde levanta la page de github
     })
-    .pipe(gulp.dest('dist/fonts'));
+    .pipe(gulp.dest('dist/webfonts'));
 });

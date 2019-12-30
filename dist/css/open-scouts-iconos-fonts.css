@@ -3,11 +3,12 @@ open-scouts Webfont
 */
 @font-face {
  font-family: 'open-scouts';
- src: url('../fonts/open-scouts.eot?1577465874270');
- src: url('../fonts/open-scouts.eot?#iefix-1577465874270') format('embedded-opentype'),
-  url('../fonts/open-scouts.woff2?1577465874270') format('woff2'),
-  url('../fonts/open-scouts.woff?1577465874270') format('woff'),
-  url('../fonts/open-scouts.ttf?1577465874270') format('truetype');
+ src: url('../webfonts/open-scouts.eot#1577713799697');
+ src: url('../webfonts/open-scouts.eot##iefix-1577713799697') format('embedded-opentype'),
+  url('../webfonts/open-scouts.woff2#1577713799697') format('woff2'),
+  url('../webfonts/open-scouts.woff#1577713799697') format('woff'),
+  url('../webfonts/open-scouts.ttf#1577713799697') format('truetype'),
+  url('../webfonts/open-scouts.svg#1577713799697') format('svg');
  font-weight: normal;
  font-style: normal;
 }
@@ -32,139 +33,139 @@ open-scouts Webfont
  *   Listado de Iconos
  */
 
-.os-camping-banderin:before {
+.os-lobo:before {
  content: '\ea01';
 }
 
-.os-camping-botiquin:before {
+.os-ltv-bagheera:before {
  content: '\ea02';
 }
 
-.os-camping-brujula:before {
+.os-ltv-baloo:before {
  content: '\ea03';
 }
 
-.os-camping-cantimplora:before {
+.os-ltv-kaa:before {
  content: '\ea04';
 }
 
-.os-camping-carpa:before {
+.os-ltv-mowgli:before {
  content: '\ea05';
 }
 
-.os-camping-chuchillo:before {
+.os-ltv-raksha:before {
  content: '\ea06';
 }
 
-.os-camping-fuego:before {
+.os-accion-evento-add:before {
  content: '\ea07';
 }
 
-.os-camping-mochila:before {
+.os-accion-evento-del:before {
  content: '\ea08';
 }
 
-.os-camping-montania:before {
+.os-accion-evento-list:before {
  content: '\ea09';
 }
 
-.os-camping-pinos:before {
+.os-accion-evento:before {
  content: '\ea0a';
 }
 
-.os-camping-prismatico:before {
+.os-accion-im-add:before {
  content: '\ea0b';
 }
 
-.os-camping-silbato:before {
+.os-accion-im-list:before {
  content: '\ea0c';
 }
 
-.os-camping-trompeta:before {
+.os-accion-im-update:before {
  content: '\ea0d';
 }
 
-.os-accion-evento-add:before {
+.os-accion-im:before {
  content: '\ea0e';
 }
 
-.os-accion-evento-del:before {
+.os-accion-lugar-add:before {
  content: '\ea0f';
 }
 
-.os-accion-evento-list:before {
+.os-accion-lugar-del:before {
  content: '\ea10';
 }
 
-.os-accion-evento:before {
+.os-accion-lugar-list:before {
  content: '\ea11';
 }
 
-.os-accion-im-add:before {
+.os-accion-lugar:before {
  content: '\ea12';
 }
 
-.os-accion-im-list:before {
+.os-accion-scout-avatar:before {
  content: '\ea13';
 }
 
-.os-accion-im-update:before {
+.os-accion-scout-buscar:before {
  content: '\ea14';
 }
 
-.os-accion-im:before {
+.os-accion-scout-perfil:before {
  content: '\ea15';
 }
 
-.os-accion-lugar-add:before {
+.os-camping-banderin:before {
  content: '\ea16';
 }
 
-.os-accion-lugar-del:before {
+.os-camping-botiquin:before {
  content: '\ea17';
 }
 
-.os-accion-lugar-list:before {
+.os-camping-brujula:before {
  content: '\ea18';
 }
 
-.os-accion-lugar:before {
+.os-camping-cantimplora:before {
  content: '\ea19';
 }
 
-.os-accion-scout-avatar:before {
+.os-camping-carpa:before {
  content: '\ea1a';
 }
 
-.os-accion-scout-buscar:before {
+.os-camping-chuchillo:before {
  content: '\ea1b';
 }
 
-.os-accion-scout-perfil:before {
+.os-camping-fuego:before {
  content: '\ea1c';
 }
 
-.os-lobo:before {
+.os-camping-mochila:before {
  content: '\ea1d';
 }
 
-.os-ltv-bagheera:before {
+.os-camping-montania:before {
  content: '\ea1e';
 }
 
-.os-ltv-baloo:before {
+.os-camping-pinos:before {
  content: '\ea1f';
 }
 
-.os-ltv-kaa:before {
+.os-camping-prismatico:before {
  content: '\ea20';
 }
 
-.os-ltv-mowgli:before {
+.os-camping-silbato:before {
  content: '\ea21';
 }
 
-.os-ltv-raksha:before {
+.os-camping-trompeta:before {
  content: '\ea22';
 }
 
